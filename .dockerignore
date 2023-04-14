@@ -1,0 +1,4 @@
+.idea/
+src/Bomber.FileService.Api/bin/
+src/Bomber.FileService.Api/obj/
+tests/Bomber.FileService.Tests/
